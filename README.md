@@ -35,6 +35,7 @@ O projeto está organizado por módulos de aprendizado, focando em:
 
 - **SGBD:** MySQL 8.0
 - **Interface:** MySQL Workbench
+- **Editor de Código:** Visual Studio Code
 - **Servidor Local:** WampServer
 
 ---
